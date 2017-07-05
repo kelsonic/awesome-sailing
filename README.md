@@ -1,4 +1,4 @@
-<img src="images/sailing.png" alt="Awesome Sailing" style="text-align: center;" />
+<img src="images/sailing1.png" alt="Awesome Sailing" style="text-align: center;" />
 
 <h1>Awesome Sailing</h1>
 
