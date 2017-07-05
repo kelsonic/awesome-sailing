@@ -1,3 +1,5 @@
+<img src="images/sailing.png" alt="Awesome Sailing" style="text-align: center;" />
+
 <h1>Awesome Sailing</h1>
 
 <p>A detailed list of sailing terminology for the soon-to-be captain.</p>
@@ -3598,4 +3600,4 @@ Please make a PR if you want to add/edit a sailing vocabulary term! All PRs are 
 
 <h2>License</h2>
 
-![MIT License.](LICENSE)
+[MIT License.](LICENSE)
