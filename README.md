@@ -998,12 +998,7 @@ A heavier boat that does not plane, moving through the water it displaces water;
 
 <h4><a id="distress-signals"></a>distress signals</h4>
 <pre><code>
-Indicators signifying a vessel is in danger, a request for assistance; as in: Internationally recognized distress signals offer a wide range of options depending on what the situation is. For instance; if you are in distress in the ocean you might release orange smoke or dye marker so a plane could spot you, if your vessel is on fire then those flames will act as a distress signal, or if you are foundering at night you might send up parachute flares. Below is an illustration of possible distress signals courtesy of the USCG:
-  
-
- <img src="Images/distress-signals.jpg" alt="Distress Signals" width="500" height="743" vspace="15" />
- 
-
+Indicators signifying a vessel is in danger, a request for assistance; as in: Internationally recognized distress signals offer a wide range of options depending on what the situation is. For instance; if you are in distress in the ocean you might release orange smoke or dye marker so a plane could spot you, if your vessel is on fire then those flames will act as a distress signal, or if you are foundering at night you might send up parachute flares.
 </code></pre>
 <p>Image: None.</p>
 <hr />
