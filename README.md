@@ -1017,10 +1017,7 @@ A float or pier where a boat can tie up to; as in: The crew did a fine job bring
 
 <h4>Dock line</h4>
 <pre><code>
-A line used to attach a boat to a dock; as in: A good dock line is usually made of nylon to provide stretch. See illustration below:
-
- <img src="Images/boat-at-dock.jpg" width="560" height="282" alt="Boat tied to dock with dock lines" />
-
+A line used to attach a boat to a dock; as in: A good dock line is usually made of nylon to provide stretch.
 </code></pre>
 <p>Image: None.</p>
 <hr />
